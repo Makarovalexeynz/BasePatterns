@@ -1,4 +1,4 @@
-package org.example;
+package org.example.creational.FactoryMethod.FactoryMethod2;
 
 public class Circle implements Shape{
     @Override

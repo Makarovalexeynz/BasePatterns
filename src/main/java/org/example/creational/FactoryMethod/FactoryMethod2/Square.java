@@ -1,4 +1,4 @@
-package org.example;
+package org.example.creational.FactoryMethod.FactoryMethod2;
 
 public class Square implements Shape{
     @Override

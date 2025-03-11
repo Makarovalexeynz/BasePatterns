@@ -1,4 +1,4 @@
-package org.example;
+package org.example.creational.FactoryMethod.FactoryMethod1;
 
 public class JavaDeveloper implements Developer {
 

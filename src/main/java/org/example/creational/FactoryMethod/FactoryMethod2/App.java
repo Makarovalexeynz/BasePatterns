@@ -1,4 +1,4 @@
-package org.example;
+package org.example.creational.FactoryMethod.FactoryMethod2;
 
 
 public class App 
@@ -13,5 +13,4 @@ public class App
         Shape square = shapeFactory.getShape("SQUARE");
         square.drow();
     }
-
 }
